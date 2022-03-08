@@ -10,5 +10,4 @@ def maximum(x, y):
         print(y)
 
 maximum(1, 2)
-print(maximum.__doc__)
-help(maximum)
+
